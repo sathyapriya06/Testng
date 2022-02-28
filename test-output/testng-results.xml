@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9653" started-at="2022-02-28T10:26:51Z" finished-at="2022-02-28T10:27:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9653" started-at="2022-02-28T10:26:51Z" finished-at="2022-02-28T10:27:00Z">
+      <class name="com.flipcart.stepdefenition.Flipcartmob">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="LaunchBrowser" is-config="true" duration-ms="5744" started-at="2022-02-28T15:56:51Z" finished-at="2022-02-28T15:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="beforemethod" is-config="true" duration-ms="1" started-at="2022-02-28T15:56:56Z" finished-at="2022-02-28T15:56:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="login" duration-ms="113" started-at="2022-02-28T15:56:56Z" finished-at="2022-02-28T15:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-02-28T15:56:57Z" finished-at="2022-02-28T15:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="search()[pri:2, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="search" duration-ms="902" started-at="2022-02-28T15:56:57Z" finished-at="2022-02-28T15:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="beforemethod" is-config="true" duration-ms="0" started-at="2022-02-28T15:56:57Z" finished-at="2022-02-28T15:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="aftermethod" is-config="true" duration-ms="1" started-at="2022-02-28T15:56:57Z" finished-at="2022-02-28T15:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="beforemethod" is-config="true" duration-ms="0" started-at="2022-02-28T15:56:57Z" finished-at="2022-02-28T15:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="windowhandling()[pri:3, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="windowhandling" duration-ms="1680" started-at="2022-02-28T15:56:57Z" finished-at="2022-02-28T15:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowhandling -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="aftermethod" is-config="true" duration-ms="1" started-at="2022-02-28T15:56:59Z" finished-at="2022-02-28T15:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="beforemethod" is-config="true" duration-ms="0" started-at="2022-02-28T15:56:59Z" finished-at="2022-02-28T15:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="ScreenShot()[pri:5, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="ScreenShot" duration-ms="351" started-at="2022-02-28T15:56:59Z" finished-at="2022-02-28T15:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method status="PASS" signature="ScreenShot()[pri:5, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="ScreenShot" duration-ms="281" started-at="2022-02-28T15:56:59Z" finished-at="2022-02-28T15:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-02-28T15:56:59Z" finished-at="2022-02-28T15:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="beforemethod" is-config="true" duration-ms="0" started-at="2022-02-28T15:56:59Z" finished-at="2022-02-28T15:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-02-28T15:57:00Z" finished-at="2022-02-28T15:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:com.flipcart.stepdefenition.Flipcartmob@1ebcae2]" name="QuitBrowser" is-config="true" duration-ms="566" started-at="2022-02-28T15:57:00Z" finished-at="2022-02-28T15:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- com.flipcart.stepdefenition.Flipcartmob -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
